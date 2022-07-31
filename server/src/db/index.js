@@ -13,6 +13,7 @@ module.exports = {
         })
     }
 ,
+
 //Tratamento de excessões do client 
     async getClient ( ) {
 
